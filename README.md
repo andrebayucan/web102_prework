@@ -25,7 +25,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/4fNBEOB.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<video src="https://i.imgur.com/4fNBEOB.mp4" autoplay loop muted playsinline style="max-width: 100%;">
+</video>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap 
