@@ -1,3 +1,5 @@
+
+
 # WEB102 Prework - Ocean Gem
 
 Submitted by: Andre Bayucan
@@ -25,8 +27,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<video src="https://i.imgur.com/4fNBEOB.mp4" autoplay loop muted playsinline style="max-width: 100%;">
-</video>
+<video src="https://github.com/user-attachments/assets/5cfa2bad-9608-48b5-8af3-481ec6c3b6f5" autoplay loop muted playsinline></video>
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap 
